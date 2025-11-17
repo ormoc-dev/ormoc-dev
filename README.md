@@ -1,4 +1,7 @@
-# 👋 Hi there, I'm <span style="color:#00C6FF;">Anthony Capuyan</span>  
+
+
+![wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Anthony%20Capuyan&fontAlign=50&fontAlignY=40&color=00C6FF&fontColor=ffffff&fontSize=40&desc=Aspiring%20Software%20Developer&descAlignY=65&animation=fadeIn)
+
 
 🎯 **Aspiring Software Developer | IT Student @ Western Leyte College  
 Passionate about Web, Mobile, & Modern UI Development**
@@ -52,8 +55,6 @@ Passionate about Web, Mobile, & Modern UI Development**
 ## 🌀 Animated Contribution Snake  
 
 > *(This adds a smooth snake animation to your GitHub profile)*
-
-![snake gif](https://github.com/ormoc-dev/ormoc-dev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
