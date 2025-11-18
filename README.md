@@ -50,13 +50,8 @@ Passionate about Web, Mobile, & Modern UI Development**
 
 ---
 
-## 🌀 Animated Contribution Snake  
 
-> *(This adds a smooth snake animation to your GitHub profile)*
-
----
-
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ormoc-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
