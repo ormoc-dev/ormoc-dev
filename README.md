@@ -1,7 +1,7 @@
 
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&height=200&text=Anthony%20Capuyan&fontAlign=50&fontAlignY=40&color=00C6FF&fontColor=ffffff&fontSize=40&desc=Aspiring%20Software%20Developer&descAlignY=65&animation=fadeIn)
-🎯 **Aspiring Software Developer | IT Student @ Western Leyte College  
+🎯 **Aspiring Software Developer | IT Profestional @ LGU ORMOC  
 Passionate about Web, Mobile, & Modern UI Development**
 
 ---
